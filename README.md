@@ -20,6 +20,7 @@ Simply install a plugin for your favorite editor and the GTM command line utilit
 
 <p><img src="https://cloud.githubusercontent.com/assets/630550/17458557/72247454-5bda-11e6-84ce-03364b8ac832.png" width="64" height="64">
 <img src="https://cloud.githubusercontent.com/assets/630550/17458560/72397408-5bda-11e6-909c-c2dd2dad3b52.png" width="64" height="64">
+<img src="https://user-images.githubusercontent.com/3669664/62366235-a39ef880-b526-11e9-9408-e549b5b12a46.png" width="64" height="64">
 <img src="https://cloud.githubusercontent.com/assets/630550/17458562/7264e2be-5bda-11e6-8311-bbed672ffb8f.png" width="64" height="64">
 <img src="https://cloud.githubusercontent.com/assets/630550/17458559/72302916-5bda-11e6-886e-2a41f423b06f.png" width="64" height="64">
 <img src="https://cloud.githubusercontent.com/assets/630550/17458563/7264f06a-5bda-11e6-9fb6-d0469730c1cb.png" width="64" height="64">
@@ -69,6 +70,7 @@ brew install gtm
 - [Vim](https://github.com/git-time-metric/gtm-vim-plugin)
 - [IntelliJ IDEA, PyCharm, WebStorm, AppCode, RubyMine, PhpStorm, AndroidStudio ](https://github.com/git-time-metric/gtm-jetbrains-plugin)
 - [VSCode](https://github.com/nexus-uw/vscode-gtm)
+- [Visual Studio](https://github.com/jjonescz/gtm-visualstudio-plugin)
 - [Terminal](https://github.com/git-time-metric/gtm-terminal-plugin)
 
 ### Initialize a project for time tracking
@@ -127,7 +129,7 @@ For help from the command line type `gtm --help` and `gtm <subcommand> --help`.
 For additional help please consult the [Wiki](https://github.com/git-time-metric/gtm/wiki).
 
 # Contributing
-[![Build Status](https://travis-ci.org/git-time-metric/gtm.svg?branch=develop)](https://travis-ci.org/git-time-metric/gtm) [![Build status](https://ci.appveyor.com/api/projects/status/gj6tvm8njgwj0hqi?svg=true)](https://ci.appveyor.com/project/mschenk42/gtm) [![Coverage Status](https://coveralls.io/repos/github/git-time-metric/gtm/badge.svg)](https://coveralls.io/github/git-time-metric/gtm) [![Go Report Card](https://goreportcard.com/badge/github.com/git-time-metric/gtm)](https://goreportcard.com/report/github.com/git-time-metric/gtm) [![Stories in Ready](https://badge.waffle.io/git-time-metric/gtm.png?label=ready&title=Ready)](https://waffle.io/git-time-metric/gtm)
+[![Build Status](https://travis-ci.org/git-time-metric/gtm.svg?branch=develop)](https://travis-ci.org/git-time-metric/gtm) [![Build status](https://ci.appveyor.com/api/projects/status/gj6tvm8njgwj0hqi?svg=true)](https://ci.appveyor.com/project/mschenk42/gtm) [![Coverage Status](https://coveralls.io/repos/github/git-time-metric/gtm/badge.svg)](https://coveralls.io/github/git-time-metric/gtm) [![Go Report Card](https://goreportcard.com/badge/github.com/git-time-metric/gtm)](https://goreportcard.com/report/github.com/git-time-metric/gtm)
 
 If you find a bug or have an idea for a new feature please feel free to file new issues and submits PRs.  In particular if there isn't a plugin for your favorite editor, go ahead and create one!
 
